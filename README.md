@@ -37,7 +37,7 @@ I enjoy exploring cloud platforms, optimizing performance, and sharing knowledge
 | [**Udhyogam**](#) | Job search portal with client/admin APIs and React UI | MERN |
 | [**Jobslink**](#) | Migrated PHP project to Node.js & MongoDB with optimized APIs | Node.js, MongoDB |
 
-> 🔗 *More on my [Portfolio]([https://YOUR-PORTFOLIO-LINK](https://jpprakash.lovable.app))*
+> 🔗 *More on my [Portfolio](https://jpprakash.lovable.app)*
 
 ---
 
