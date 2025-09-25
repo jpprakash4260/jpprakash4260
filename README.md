@@ -1,70 +1,67 @@
-# 👋 Hi, I'm JayaPrakash A
+<!-- Profile Header -->
+<h1 align="center">Hey 👋, I'm JayaPrakash A</h1>
+<h3 align="center">Full Stack Developer • DevOps Engineer • Open-Source Enthusiast</h3>
 
-**Full Stack Developer | DevOps Engineer**
-
-📍 Chennai, India  
-📧 jayaprakash4260@gmail.com  
-🔗 [LinkedIn](#) · [Portfolio](#)
-
----
-
-## 🚀 About Me
-Full-stack web developer and team lead with expertise in the **MERN stack** and **DevOps practices**.  
-I design scalable applications, implement CI/CD pipelines, and optimize performance using cloud technologies and database management to ensure seamless deployments and client satisfaction.
+<p align="center">
+  <a href="mailto:jayaprakash4260@gmail.com"><img src="https://img.shields.io/badge/Email-jayaprakash4260%40gmail.com-red?style=flat-square&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat-square&logo=vercel" /></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Frontend:** React, TypeScript, HTML, CSS  
-- **Backend:** Node.js, Express  
-- **Databases:** MongoDB, MySQL  
-- **Cloud & DevOps:** AWS, Firebase, Terraform, Docker, Kubernetes, Ansible, CloudFormation  
-- **CI/CD & Monitoring:** Jenkins, Grafana, Prometheus  
-- **Version Control:** Git & GitHub
+### 💡 About Me  
+I’m a **MERN-stack** developer and **DevOps engineer** who loves crafting scalable applications, automating infrastructure, and building CI/CD pipelines.  
+I enjoy exploring cloud platforms, optimizing performance, and sharing knowledge with the tech community.
 
 ---
 
-## 💼 Professional Experience
-
-### Mequals Technologies — *Team Lead / Senior Developer / DevOps Engineer*  
-*Apr 2024 – Present*  
-- Lead development team for timely project delivery and robust architecture design.  
-- Built CI/CD pipelines and automated infrastructure as part of DevOps best practices.
-
-### Codevantage Tech Pvt. Ltd — *Full Stack Developer*  
-*Sep 2023 – Dec 2023*  
-- Integrated Notion API data with new features using Cloudflare & Firebase.  
-- Automated deployment of Hugo-based templates.
-
-### Bluesilicon Infotech Pvt. Ltd — *Junior MERN Developer*  
-*May 2022 – Sep 2023*  
-- Developed & integrated APIs with interactive features, boosting system performance.  
-- Built advanced resume management & access control features for compliance.
+### 🛠️ Tech Toolbox
+<p>
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript%20%7C%20HTML%20%7C%20CSS-blue" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-green" />
+  <img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20MySQL-orange" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Firebase-yellow" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Kubernetes%20%7C%20Terraform-lightgrey" />
+  <img src="https://img.shields.io/badge/CI/CD-Jenkins%20%7C%20Grafana%20%7C%20Prometheus-critical" />
+</p>
 
 ---
 
-## 📂 Key Projects
+### 🚀 Featured Projects  
+| Project | Description | Tech |
+|--------|-------------|------|
+| [**ZeroGravity**](#) | Photography service platform with admin management & 50+ data reports | MERN, AWS, DevOps |
+| [**PlanMiTrip**](#) | Travel planning app with real-time APIs and collaborative features | React, Node.js |
+| [**Bullet**](#) | Notion-based website builder with automated publishing | Node.js, Firebase |
+| [**Udhyogam**](#) | Job search portal with client/admin APIs and React UI | MERN |
+| [**Jobslink**](#) | Migrated PHP project to Node.js & MongoDB with optimized APIs | Node.js, MongoDB |
 
-- **ZeroGravity** – Photography service platform with admin management & 50+ data reports.  
-- **PlanMiTrip** – Travel planning app with interactive trip booking & real-time API integrations.  
-- **Bullet** – Notion-based website builder with optimized API response handling.  
-- **Udhyogam** – Job search portal with client/admin REST APIs and React.js frontend.  
-- **Question Cloud** – High-performance education & assessment REST APIs with MySQL.  
-- **Jobslink** – Migrated PHP project to Node.js & MongoDB, developed full REST API suite.
-
----
-
-## 🏆 Certifications
-- **DevOps Engineering – GUVI** (Jan 2025 – Sept 2025)  
-  CI/CD, cloud platforms, infrastructure as code, containerization & monitoring tools.
-- **Advanced Python with Django – FITA** (Jan 2022 – Apr 2022)
+> 🔗 *More on my [Portfolio](https://YOUR-PORTFOLIO-LINK)*
 
 ---
 
-## 🎮 Interests
-Gaming · Teaching Tech Skills to Freshers & Students
+### 📊 GitHub Highlights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical" height="165" />
+</p>
 
 ---
 
-⭐️ *“Building scalable solutions and sharing knowledge to empower teams and communities.”*
+### 🎯 Current Focus
+- Building production-ready **MERN** applications  
+- Strengthening **DevOps** automation & monitoring  
+- Exploring advanced **cloud architecture** and **IaC**
+
+---
+
+### 🌱 Fun Facts
+- 🎮 Gamer & lifelong learner  
+- 💡 Enjoy teaching tech skills to freshers & students  
+
+---
+
+<p align="center">
+⭐️ *Always open to collaboration and exciting projects. Let’s build something amazing!*  
+</p>
