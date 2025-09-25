@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="mailto:jayaprakash4260@gmail.com"><img src="https://img.shields.io/badge/Email-jayaprakash4260%40gmail.com-red?style=flat-square&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat-square&logo=vercel" /></a>
+  <a href="https://www.linkedin.com/in/jaya-prakash-551425224/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://jpprakash.lovable.app"><img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat-square&logo=vercel" /></a>
 </p>
 
 ---
